@@ -3,7 +3,7 @@
 
 - 🔭 atualmente estou participando do Progama Jovem Programador 2022 **Progama Jovem Programador 2022 - SENAC/SC**
 
-- 🌱 atualmente estou aprendendo **HTML5, CSS, Java Script e C#**
+- 🌱 Estou aprendendo **HTML5, CSS, Java Script e C#**
 
 - 📫 Você me acha através do e-mail **a.mitterstein@gmail.com **
 
