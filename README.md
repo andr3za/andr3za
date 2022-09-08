@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Andreza Mitterstein Prebianca</h1>
-<h3 align="center">Apaixonada por programação e análise de dados no mundo digital</h3>
+<h3 align="center">Entrando no mundo da programação e análise de dados</h3>
 
 - 🔭 atualmente estou participando do Progama Jovem Programador 2022 **Progama Jovem Programador 2022 - SENAC/SC**
 
