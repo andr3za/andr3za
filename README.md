@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Andreza Mitterstein Prebianca</h1>
 <h3 align="center">Entrando no mundo da programação e análise de dados</h3>
 
-- 🔭 atualmente estou participando do Progama Jovem Programador 2022 **Progama Jovem Programador 2022 - SENAC/SC**
+- 🔭 Atualmente estou participando do Progama Jovem Programador 2022 **Progama Jovem Programador 2022 - SENAC/SC**
 
-- 🌱 Estou aprendendo **HTML5, CSS, Java Script e C#**
+- 🌱 Estou aprendendo **C#, HTML5, CSS, Java Script e Banco de Dados**
 
 - 📫 Você me acha através do e-mail **a.mitterstein@gmail.com **
 
